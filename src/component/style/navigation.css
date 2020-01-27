@@ -1,3 +1,10 @@
 .navigation{
     background-color: transparent !important;
 }
+
+.navigation a{
+    background: linear-gradient(to right, #fc4a1a, #f7b733);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+
+}
